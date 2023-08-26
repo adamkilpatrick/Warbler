@@ -2,7 +2,7 @@
 Simple Tape Wobble VST
 
 ## User Guide
-There are 3 paramaters in this VST:
+There are 3 parameters in this VST:
 - Depth:
   - The amplitude of the oscillating tape head.
 - Frequency
