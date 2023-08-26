@@ -8,7 +8,7 @@ There are 3 parameters in this VST:
 - Frequency
   - The frequency that the tapehead is osciallating at (oscillation here is sin based).
 - Manual depth:
-  - A manual offset added to the calculated oscillating depth from the two above parameters. This is useful if you want to do a non-sinusoidal oscillation, since you can set the "Depth" param to 0 and assign this param to an LFO (or other autoamtion source) of your choosing. It can also be used to add some noise into the oscillation provided from the two above params.
+  - A manual offset added to the calculated oscillating depth from the two above parameters. This is useful if you want to do a non-sinusoidal oscillation, since you can set the "Depth" param to 0 and assign this param to an LFO (or other automation source) of your choosing. It can also be used to add some noise into the oscillation provided from the two above params.
 
 
 ## Build Guide
